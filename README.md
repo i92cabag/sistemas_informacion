@@ -1,3 +1,3 @@
 # sistemas_informacion
 
-Modificación
+Modificación del archivo
